@@ -2,7 +2,7 @@ header #header {
   background: var(--bs-primary);
   box-shadow: 0 3px 6px rgba(var(--bs-secondary-rgb), 0.2);
   color: var(--bs-secondary);
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
 
   .navbar-brand {
     display: block;
@@ -26,7 +26,7 @@ header #header {
     color: var(--bs-secondary);
 
     &::before {
-      content: '';
+      content: "";
       height: 2px;
       width: 0;
       background-color: var(--bs-accent);
